@@ -1,4 +1,5 @@
 #🏡 Housing Market Data Analysis: Pricing Trends & Predictive Insights
+
 ##📖 Project Overview
 
 This project explores and predicts housing market prices using Big Data Analysis techniques.
@@ -17,6 +18,7 @@ This project was developed as part of my data analytics learning journey to demo
 4. Visualize insights through an interactive dashboard
 
 ##🧩 Tools & Technologies
+
 Category	Tools Used
 Programming Language	Python
 Data Analysis Libraries	Pandas, NumPy
@@ -25,7 +27,7 @@ Visualization	Plotly, Seaborn, Matplotlib
 Dashboarding	Plotly Subplots
 Environment	Jupyter Notebook
 
-🔍 Key Insights
+##🔍 Key Insights
 
 1. Overall Quality and Living Area (GrLivArea) are the most impactful features in predicting sale price.
 
@@ -46,9 +48,6 @@ The final interactive dashboard visualizes:
 - Correlation heatmap of key variables
 
 - Scatter plot of size vs price (with regression trendline)
-
-You can explore the live dashboard here:
-👉 View Dashboard (HTML)
 
 ##🧠 Machine Learning Models
 Model	Purpose	Result
