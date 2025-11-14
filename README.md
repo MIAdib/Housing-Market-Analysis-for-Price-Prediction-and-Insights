@@ -65,7 +65,9 @@ The project demonstrates a complete end-to-end data analysis workflow, suitable 
 ## 👤 About Me
 
 Izzul Adib
+
 Undergraduate in Science Mathematics (Big Data Analytics)
+
 Malaysia | Passionate about Data Analysis, Machine Learning & Visualization
 
 [LinkedIn](www.linkedin.com/in/iadib01)
