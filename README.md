@@ -1,13 +1,13 @@
-#🏡 Housing Market Data Analysis: Pricing Trends & Predictive Insights
+# 🏡 Housing Market Data Analysis: Pricing Trends & Predictive Insights
 
-##📖 Project Overview
+## 📖 Project Overview
 
 This project explores and predicts housing market prices using Big Data Analysis techniques.
 The analysis covers data cleaning, exploratory data analysis (EDA), feature correlation, predictive modeling, and dashboard visualization — providing insights into the factors that most strongly influence house prices.
 
 This project was developed as part of my data analytics learning journey to demonstrate real-world data handling, modeling, and visualization skills.
 
-##⚙️ Objectives
+## ⚙️ Objectives
 
 1. Analyze key factors influencing housing prices
 
@@ -17,7 +17,7 @@ This project was developed as part of my data analytics learning journey to demo
 
 4. Visualize insights through an interactive dashboard
 
-##🧩 Tools & Technologies
+## 🧩 Tools & Technologies
 
 Category	Tools Used
 Programming Language	Python
@@ -27,7 +27,7 @@ Visualization	Plotly, Seaborn, Matplotlib
 Dashboarding	Plotly Subplots
 Environment	Jupyter Notebook
 
-##🔍 Key Insights
+## 🔍 Key Insights
 
 1. Overall Quality and Living Area (GrLivArea) are the most impactful features in predicting sale price.
 
@@ -37,7 +37,7 @@ Environment	Jupyter Notebook
 
 4. Linear Regression and Random Forest models both showed strong predictive performance for continuous value estimation.
 
-##📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 The final interactive dashboard visualizes:
 
@@ -49,12 +49,12 @@ The final interactive dashboard visualizes:
 
 - Scatter plot of size vs price (with regression trendline)
 
-##🧠 Machine Learning Models
+## 🧠 Machine Learning Models
 Model	Purpose	Result
 Linear Regression	Baseline prediction model	Clear coefficient insights
 Random Forest Regressor	Advanced ensemble model	Improved accuracy and feature ranking
 
-##📈 Results Summary
+## 📈 Results Summary
 
 The trained models successfully predicted house prices with reasonable accuracy.
 
@@ -62,7 +62,7 @@ The dashboard highlights visual trends and correlations between property feature
 
 The project demonstrates a complete end-to-end data analysis workflow, suitable for both academic and professional portfolio presentation.
 
-##👤 About Me
+## 👤 About Me
 
 Izzul Adib
 Undergraduate in Science Mathematics (Big Data Analytics)
