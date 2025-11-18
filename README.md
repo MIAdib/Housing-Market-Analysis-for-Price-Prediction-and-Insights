@@ -62,8 +62,6 @@ The dashboard highlights visual trends and correlations between property feature
 
 The project demonstrates a complete end-to-end data analysis workflow, suitable for both academic and professional portfolio presentation.
 
-Dashboard: (Dashboard)[file:///C:/Users/adibs/Downloads/Housing%20Market%20Analysis/DashboardHousingMarket.html] 
-
 ## 👤 About Me
 
 Izzul Adib
