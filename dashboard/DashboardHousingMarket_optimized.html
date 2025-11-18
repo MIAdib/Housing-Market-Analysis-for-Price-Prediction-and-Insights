@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Dashboard Housing Market — Optimized</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <!-- Plotly CDN (keeps the HTML small) -->
+  <script src="https://cdn.plot.ly/plotly-2.20.0.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 18px; }
+    #plot { width: 100%; height: 80vh; }
+  </style>
+</head>
+<body>
+  <h2>Dashboard Housing Market — Optimized</h2>
+  <div id="plot">Loading…</div>
+
+  <script>
+    // Loads the external JSON (data + layout + config) and renders the Plotly figure.
+    // Put DashboardHousingMarket_data.json next to this HTML in the same repository.
+    fetch('DashboardHousingMarket_data.json')
+      .then(r => {
+        if (!r.ok) throw new Error('Failed to fetch figure JSON ('+r.status+')');
+        return r.json();
+      })
+      .then(fig => {
+        // fig should be { data: [...], layout: {...}, config: {...} }
+        Plotly.newPlot('plot', fig.data || [], fig.layout || {}, fig.config || {});
+      })
+      .catch(err => {
+        console.error(err);
+        document.getElementById('plot').innerText = 'Error loading figure: ' + err;
+      });
+  </script>
+</body>
+</html>
