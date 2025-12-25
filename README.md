@@ -68,4 +68,28 @@ Undergraduate in Science Mathematics (Big Data Analytics)
 
 Malaysia | Passionate about Data Analysis, Machine Learning & Visualization
 
-[LinkedIn](www.linkedin.com/in/iadib01)
+[LinkedIn](www.linkedin.com/in/iadib01)]
+
+- **Columns**: Customize based on your needs (e.g., add Priority or Assignee).
+- **Alignment**: For centered text, use `|:---:|`, left `|---|`, right `|---:|`.
+- **Updates**: Add a note at the bottom to indicate when the table was last updated.
+
+:---------------------:----------------------:
+: Category            : Tools Used
+:---------------------:----------------------:
+
+### Updating Your README on GitHub
+1. **Navigate to your repository**: Go to your GitHub repo and click on the README.md file.
+2. **Edit the file**: Click the pencil icon (Edit this file) to open the editor.
+3. **Add or modify the timetable**: Paste your Markdown table where you want it (e.g., under a "Schedule" section).
+4. **Preview**: Use the Preview tab to see how it looks.
+5. **Commit changes**: Add a commit message like "Add project timetable to README" and click "Commit changes."
+6. **Optional**: If you have many updates, consider using GitHub Issues or Projects for more dynamic tracking, linking back to the README.
+
+### Tips for Better READMEs
+- **Keep it organized**: Use headings (e.g., ## Timetable) to structure your README.
+- **Make it readable**: Limit table width; use emojis or badges for status (e.g., ✅ for completed).
+- **Automate if possible**: For dynamic timetables, integrate with tools like GitHub Actions to auto-update dates.
+- **Resources**: Check GitHub's Markdown guide or use online editors like Dillinger to test tables.
+
+If you share more details about your timetable (e.g., specific categories or a draft), I can refine this further! What kind of categorization are you aiming for?**
