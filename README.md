@@ -81,11 +81,11 @@ Model	Purpose	Result, Linear Regression, Baseline prediction model, Clear coeffi
 
 ## 📈 Results Summary
 
-The trained models successfully predicted house prices with reasonable accuracy.
+1. The trained models successfully predicted house prices with reasonable accuracy.
 
-The dashboard highlights visual trends and correlations between property features and pricing.
+2. The dashboard highlights visual trends and correlations between property features and pricing.
 
-The project demonstrates a complete end-to-end data analysis workflow, suitable for both academic and professional portfolio presentation.
+3. The project demonstrates a complete end-to-end data analysis workflow, suitable for both academic and professional portfolio presentation.
 
 ## 👤 About Me
 
