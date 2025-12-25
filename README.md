@@ -50,9 +50,7 @@ The final interactive dashboard visualizes:
 - Scatter plot of size vs price (with regression trendline)
 
 ## 🧠 Machine Learning Models
-Model	Purpose	Result
-Linear Regression	Baseline prediction model	Clear coefficient insights
-Random Forest Regressor	Advanced ensemble model	Improved accuracy and feature ranking
+Model	Purpose	Result, Linear Regression, Baseline prediction model, Clear coefficient insights, Random Forest Regressor, Advanced ensemble model,	Improved accuracy and feature ranking
 
 ## 📈 Results Summary
 
